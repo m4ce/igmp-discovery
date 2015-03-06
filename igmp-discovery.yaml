@@ -1,0 +1,9 @@
+---
+objectids:
+  igmp_cache_last_reporter:
+    "juniper":
+      sysdescr: "^Juniper.*"
+      oid: "1.3.6.1.3.59.1.1.2.1.4"
+    "arista":
+      sysdescr: "^Arista.*"
+      oid: "1.3.6.1.2.1.85.1.2.1.4"
